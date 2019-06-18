@@ -1,29 +1,4 @@
-# coffee_calories
+App that calculates the total calories of your favorite coffee and the amount of exercise needed to burn the calories.  
+Made with `Vue.js`.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Live project at: https://coffee-calories-calculator-visan.netlify.com/
